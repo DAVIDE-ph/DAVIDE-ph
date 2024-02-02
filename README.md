@@ -57,6 +57,8 @@
   <img src="https://camo.githubusercontent.com/f1711f466b9bbd685dafb7e109ee186ff126bb8b100eee77c600cdef7f522640/68747470733a2f2f6d75692e636f6d2f7374617469632f6c6f676f2e737667" height="40" alt="Maui"  />
  <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" height="40" alt="Blazor"  />
+  <img width="12" />
+  <img src="https://play-lh.googleusercontent.com/Gs6kFTfe9wy0kp3RvMMhCEejwohHaVUEaY9mda3aweBM9S6BLjLo7Nu4uTNNDN9gPfk" height="40" alt="Blazor"  />
 </div>
 
 ###
